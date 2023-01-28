@@ -1,9 +1,7 @@
 # SuperQuiz-Privacy-Policy
 1. INTRODUCTION
 
-1.1 Welcome to Super Quiz Services run by Gloria Dumervil. Garena takes its responsibilities under applicable privacy laws and regulations ("Privacy Laws") seriously and is committed to respecting the privacy rights and concerns of all users of our mobile application. Users refers to a user who registers for an account or who otherwise uses or accesses the Services (individually and collectively, “users”, “you” or “your”). We recognize the importance of the personal data you have entrusted to us and believe that it is our responsibility to properly manage, protect and process your personal data. This policy (“Privacy Policy”) is designed to assist you in understanding how we collect, use, disclose, transfer and/or process the personal data you have provided to us and/or possess about you, whether now or in the future, as well as to assist you in making an informed decision before providing us with any of your personal data. This Privacy Policy is also designed to assist our users who live in the European Union (the “EU”) to understand their applicable data privacy rights that exist under the EU's General Data Protection Regulation when they use the Services. Capitalised terms used in this Privacy Policy that are not otherwise defined have the meanings given to them in the Garena Terms of Service.
-
- 
+1.1 Welcome to Super Quiz Services run by Gloria Dumervil. Super Quiz takes its responsibilities under applicable privacy laws and regulations ("Privacy Laws") seriously and is committed to respecting the privacy rights and concerns of all users of our mobile application. Users refers to a user who registers for an account or who otherwise uses or accesses the Services (individually and collectively, “users”, “you” or “your”). We recognize the importance of the personal data you have entrusted to us and believe that it is our responsibility to properly manage, protect and process your personal data. This policy (“Privacy Policy”) is designed to assist you in understanding how we collect, use, disclose, transfer and/or process the personal data you have provided to us and/or possess about you, whether now or in the future, as well as to assist you in making an informed decision before providing us with any of your personal data. This Privacy Policy is also designed to assist our users who live in the European Union (the “EU”) to understand their applicable data privacy rights that exist under the EU's General Data Protection Regulation when they use the Services. 
 
 1.2 "Personal Data" or "personal data" means data, whether true or not, about an individual who can be identified from that data, or from that data and other information to which an organisation has or is likely to have access. Common examples of personal data could include name, identification number, and contact information.
 
@@ -35,7 +33,7 @@
 
 • when you grant permissions on your device to share information with our mobile application or Site;
 
-• when you link your Garena account with your Social Media Account (defined below) or other external account or use other social media features, in accordance with the provider’s policies;
+• when you link your Super Quiz account with your Social Media Account (defined below) or other external account or use other social media features, in accordance with the provider’s policies;
 
 • when you provide us with feedback or complaints;
 
@@ -55,7 +53,7 @@ The above does not purport to be exhaustive and sets out some common instances o
 
 3. WHAT PERSONAL DATA WILL SUPER QUIZ COLLECT?
 
-3.1 The personal data that Garena may collect includes but is not limited to:
+3.1 The personal data that Super Quiz may collect includes but is not limited to:
 
 • name, username and user ID;
 
